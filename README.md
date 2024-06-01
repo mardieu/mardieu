@@ -2,10 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=F4F5F6&center=true&vCenter=true&random=false&width=500&lines=What's+good?+I'm+Daniel+Marinho+🖐️;I+am+a+backend+C+and+Java+student,;Technology+and+Science+Bachelor's+student;and+Computer+passionate+since+I+was+a+kid.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=3000&pause=1500&color=F4F5F6&center=true&vCenter=true&random=false&width=600&lines=What's+good?+I'm+Daniel+Marinho+🖐️;I+am+a+backend+C+and+Java+student,;Technology+and+Science+Bachelor's+student;and+a+Computer+passionate+since+childhood.;Welcome+to+my+profile!+👋)](https://git.io/typing-svg)
 
+<br>
 
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marinhocosta.daniel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mardieu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F4F5F6.svg?style=for-the-badge&logo=firefox&logoColor=5998C5&textColor=0B0B0B)](https://mardieu.github.io/portifolio/en)
 </div>
 
 <br>
@@ -31,6 +34,6 @@
 ![AfterEffects](https://img.shields.io/badge/After%20Effects-0B0B0B?style=for-the-badge&logo=Adobe%20after%20effects)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-0B0B0B?style=for-the-badge&logo=Adobe%20Photoshop)&nbsp;
 
-
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5998C5&height=150&section=footer"/>

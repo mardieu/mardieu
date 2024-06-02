@@ -6,7 +6,7 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marinhocosta.daniel@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marinhocosta.daniel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mardieu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F4F5F6.svg?style=for-the-badge&logo=firefox&logoColor=5998C5&textColor=0B0B0B)](https://mardieu.github.io/portifolio/en)
 </div>

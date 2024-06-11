@@ -21,7 +21,6 @@
 ### Tools 🔧
 ![ArchLinux](https://img.shields.io/badge/Arch-0B0B0B?style=for-the-badge&logo=arch-linux&logoColor=1793D1)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-0B0B0B?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-![NeoVim](https://img.shields.io/badge/NeoVim-0B0B0B.svg?&style=for-the-badge&logo=neovim&logoColor=519D3B)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0B0B0B?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/-GIT-0B0B0B?style=for-the-badge&logo=git&labelColor=0B0B0B&logoColor=F05033)&nbsp;
 

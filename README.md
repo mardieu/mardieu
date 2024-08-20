@@ -35,4 +35,10 @@
 
 <br>
 
+<div align="center"> 
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66c0ce96837d383f4ab79078?variant=dark&roadmaps=java%2Ccpp)](https://roadmap.sh)
+
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5998C5&height=150&section=footer"/>

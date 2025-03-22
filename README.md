@@ -26,9 +26,9 @@
 
 <br>
 
-<div align="center"> 
+<div align="left"> 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66c0ce96837d383f4ab79078?variant=dark&roadmaps=java%2Ccpp)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66c0ce96837d383f4ab79078?variant=dark&roadmaps=linux%2Crust%2Cjava%2Ccpp)](https://roadmap.sh)
 
 </div>
 
